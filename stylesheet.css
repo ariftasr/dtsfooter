@@ -1,0 +1,17 @@
+.footer{
+    background-color:#FA8072;
+    color: rgb(253, 255, 255);
+    height: 140px;
+    font-family: "Aladin"; src: url(Aladin.ttf);
+}
+
+.footer-pic{
+    margin: 20px 40px;
+    float: left;
+}
+
+.footer-list{
+    margin: 20px 40px;
+    float: right;
+    font-family: "Aladin";
+}
