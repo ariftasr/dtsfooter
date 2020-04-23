@@ -1,6 +1,6 @@
 .footer{
-    background-color:#ffcebd;
-    color: rgb(253, 255, 255);
+    background-color:#d7f4f4;
+    color:black;
     height: 140px;
     font-family: "Aladin"; src: url(Aladin.ttf);
 }
@@ -14,4 +14,8 @@
     margin: 20px 40px;
     float: right;
     font-family: "Aladin";
+}
+
+.footer-list span{
+    color: chocolate;    
 }
